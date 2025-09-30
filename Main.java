@@ -10,3 +10,4 @@ inventory.addItem(item2);
 
 inventory.displayInventory();
 }
+}
